@@ -1,0 +1,33 @@
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\App.g.i.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\App.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\Common\StandardStyles.g.i.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\Common\StandardStyles.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\XamlTypeInfo.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\App.xaml
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\Common\StandardStyles.xaml
+D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.exe
+D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.pdb
+D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\resources.pri
+D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\AppxManifest.xml
+D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.build.appxrecipe
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\Hack it.exe
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\Hack it.pdb
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\priconfig.xml.intermediate
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\layout.resfiles.intermediate
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\resources.resfiles.intermediate
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\pri.resfiles.intermediate
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\priconfig.xml
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\layout.resfiles
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\resources.resfiles
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\pri.resfiles
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\LanguageQualifiers.txt
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\ProjectArchitectures.txt
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\ItemsPage.g.i.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\ItemsPage.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\ItemsPage.xaml
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\SplitPage.g.i.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\SplitPage.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\SplitPage.xaml
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\DetailPage.g.i.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\DetailPage.g.cs
+D:\windowapp\windows 8\Hack it\Hack it\obj\Debug\DetailPage.xaml

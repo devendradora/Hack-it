@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEVENDRA</Machine>
+    <WindowsUser>Devendra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.exe">
+      <PackagePath>Hack it.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.pdb">
+      <PackagePath>Hack it.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\DetailPage.xaml">
+      <PackagePath>DetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

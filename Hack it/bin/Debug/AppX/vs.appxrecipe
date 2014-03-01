@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEVENDRA</Machine>
+    <WindowsUser>Devendra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0F7F737C2823F3EDC09F1A67B2D6768B0C4823AC75AD3445020ECF7D3A217B2F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f8a5e87b-73a9-4be9-ae24-4d8684639dd5_1.0.0.0_neutral__v74mhgpwyqt7a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f8a5e87b-73a9-4be9-ae24-4d8684639dd5_v74mhgpwyqt7a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f8a5e87b-73a9-4be9-ae24-4d8684639dd5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Devendra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-29T13:58:30.052</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.exe">
+      <PackagePath>Hack it.exe</PackagePath>
+      <Modified>2013-12-29T14:36:53.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Hack it.pdb">
+      <PackagePath>Hack it.pdb</PackagePath>
+      <Modified>2013-12-29T14:36:53.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-12-29T08:05:54.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-29T07:58:18.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\DetailPage.xaml">
+      <PackagePath>DetailPage.xaml</PackagePath>
+      <Modified>2013-12-29T11:00:21.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2013-12-29T09:33:39.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2013-12-29T14:36:49.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowapp\windows 8\Hack it\Hack it\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-29T13:58:29.109</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
